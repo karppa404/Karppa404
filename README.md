@@ -1,7 +1,3 @@
-<head>
-<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-</head>
-
 [![Header](./assets/Header.png)](https://karppa.dev)
 <table align="center">
   <tr>
