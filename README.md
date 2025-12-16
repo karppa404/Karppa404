@@ -1,2 +1,21 @@
-## Hi there 👋
-At the moment I'm working through my computer science degree at UTD. On the side, I like to work on various projects, write about subjects that interest me, and work towards bettering myself in all aspects of life. You can find updates on what I have been up to on this page.
+<head>
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+[![Header](./assets/Header.png)](https://karppa.dev)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/TS.png" width="40" /><br />
+    </td>
+    <td align="center">
+      <img src="./assets/Svelte.png" width="40" /><br />
+    </td>
+    <td align="center">
+      <img src="./assets/Vite.png" width="40" /><br />
+    </td>
+  </tr>
+</table>
+
+# Karppa
+I am a developer building web tools in public. You can find my works here.
